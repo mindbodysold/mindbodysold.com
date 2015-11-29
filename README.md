@@ -1,2 +1,3 @@
-# london-calling
-Personal portfolio for Daniel Jones
+# mindbodysold.com
+## london-calling
+### Personal portfolio of Daniel Jones
